@@ -2,6 +2,8 @@
 
 Frontend Developer with 7+ years of experience, specializing in **Angular** and **TypeScript**.
 
+📍 Currently based in Tehran, actively seeking Frontend Developer opportunities in Germany (Blue Card pathway)
+
 I enjoy building well-structured, maintainable applications — and I care about the architecture behind the UI, not just the UI itself.
 
 ---
