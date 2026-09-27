@@ -2,7 +2,7 @@
 
 **Senior Frontend Developer · Angular & TypeScript**
 
-Building Angular applications since 2017, for stock-exchange, finance and CRM platforms. I focus on scalable frontend architecture, state management and real-time data flows, and I choose architecture based on scope and maintainability, not habit.
+Frontend developer since 2017, working with Angular since 2019, on stock-exchange, finance and CRM platforms. I focus on scalable frontend architecture, state management and real-time data flows, and I choose architecture based on scope and maintainability, not habit.
 
 📍 Based in Tehran · open to Senior Frontend roles in Germany (Blue Card) · German B2
 
