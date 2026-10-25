@@ -1,16 +1,16 @@
 # Hi, I'm Sara 👋
 
-**Senior Frontend Developer · Angular & TypeScript**
+**Frontend Developer · Angular & TypeScript**
 
 I have been a frontend developer since 2017 and have worked with Angular since 2019. I built apps for a stock exchange platform, a cloud accounting product, a CRM and an online marketplace. I care about clean architecture, state management and real-time data, and I choose tools based on what the project really needs.
 
-📍 Based in Tehran · open to Senior Frontend roles in Germany (Blue Card) · German B2
+📍 Based in Tehran · open to Frontend roles in Germany (Blue Card) · German B2
 
 ---
 
 ## 🧩 What I've built
 
-- **Notification system**: a reusable headless core with a facade API, the Strategy Pattern for toast vs. inbox, and de-duplication. Used in two production Angular apps, in one of them by more than 15 components and services
+- **Notification system**: four interchangeable display modes (toast, dialog, both, none) with a shared notify() interface, chosen by factory methods. De-duplication in a time window and hiding by category. Used in two production Angular apps
 - **Real-time NGXS store**: merges REST history and SignalR live feeds, removes duplicates and shows messages about the user's portfolio as a toast
 - **Reusable OTP dialog**: later used in the contract-signing flow without any changes
 - **Simple when possible**: built a full self-service feature *without* NGXS, because the scope didn't need it
