@@ -2,7 +2,7 @@
 
 **Frontend Developer · Angular & TypeScript**
 
-I have been a frontend developer since 2017 and have worked with Angular since 2019. I built apps for a stock exchange platform, a cloud accounting product, a CRM and an online marketplace. I care about clean architecture, state management and real-time data, and I choose tools based on what the project really needs.
+I started as a frontend developer in 2017 and have more than six years of work experience, over four of them with AngularJS and Angular. I built apps for a stock exchange platform, a cloud accounting product, a CRM and an online marketplace. I care about clean architecture, state management and real-time data, and I choose tools based on what the project really needs.
 
 📍 Based in Tehran · open to Frontend roles in Germany (Blue Card) · German B2
 
