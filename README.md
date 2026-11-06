@@ -11,11 +11,11 @@ I started as a frontend developer in 2017 and have more than six years of work e
 ## 🧩 What I've built
 
 - **Notification system**: four interchangeable display modes (toast, dialog, both, none) with a shared notify() interface, chosen by factory methods. De-duplication in a time window and hiding by category. Used in two production Angular apps
-- **Real-time NGXS store**: merges REST history and SignalR live feeds, removes duplicates and shows messages about the user's portfolio as a toast
+- **Real-time NGXS store**: merges paginated REST history and SignalR live feeds into one feed without duplicates, and matches new messages with the user's portfolio through selectors
 - **Reusable OTP dialog**: later used in the contract-signing flow without any changes
 - **Simple when possible**: built a full self-service feature *without* NGXS, because the scope didn't need it
 - **Financial reports**: a configurable parameter system for 50+ reports, and Excel import with column mapping, validation and partial save
-- **Legacy migration**: moved AngularJS screens to TypeScript and split a 500-line controller into clean components
+- **Legacy migration**: helped migrate the app from AngularJS to Angular (TypeScript); migrated several modules myself and split a 500-line controller into clean components
 
 ---
 
